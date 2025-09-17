@@ -13,7 +13,7 @@ A lightweight, async download manager with a live terminal dashboard.
 
 ### 1️ Clone & Install
 ```bash
-git clone https://github.com/<your-username>/sentinel-d1.git
+git clone https://github.com/<sedegah>/sentinel-d1.git
 cd sentinel-d1
 python3 -m venv .venv
 source .venv/bin/activate
