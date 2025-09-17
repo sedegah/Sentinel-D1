@@ -1,0 +1,26 @@
+100MB.zip
+# Virtual environment
+.env/
+venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/editor
+.vscode/
+*.swp
+
+# Large files
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
+

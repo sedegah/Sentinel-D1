@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentinel-d1"
+version = "0.2.2"
+description = "Concurrent downloader with pause/resume and live dashboard"
+dependencies = [
+    "aiohttp",
+    "rich",
+    "typer",
+]
+[project.scripts]
+sentinel-d1 = "sentinel_d1.cli:app"
