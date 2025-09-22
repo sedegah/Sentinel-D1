@@ -6,3 +6,4 @@
 // Improve terminal color contrast 1758583620
 // Add unit tests for downloader 1758583620
 // Add unit tests for downloader 1758583620
+// Reduce memory footprint during large downloads 1758583620
