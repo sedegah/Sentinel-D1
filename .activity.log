@@ -12,3 +12,4 @@
 // Refactor asyncio error handling 1758637083
 // Improve terminal color contrast 1758637083
 // Document new CLI flags in README 1758637083
+// Improve exception logging in manager 1758637083
