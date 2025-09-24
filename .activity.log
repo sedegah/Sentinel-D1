@@ -17,3 +17,4 @@
 // Improve terminal color contrast 1758723338
 // Document new CLI flags in README 1758723338
 // Improve FastAPI endpoint stability 1758723338
+// Add config for custom download directory 1758723338
