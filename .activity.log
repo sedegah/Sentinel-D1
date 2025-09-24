@@ -15,3 +15,4 @@
 // Improve exception logging in manager 1758637083
 // Reduce memory footprint during large downloads 1758637083
 // Improve terminal color contrast 1758723338
+// Document new CLI flags in README 1758723338
