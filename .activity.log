@@ -19,3 +19,4 @@
 // Improve FastAPI endpoint stability 1758723338
 // Add config for custom download directory 1758723338
 // Reduce memory footprint during large downloads 1758723338
+// Enhance progress dashboard rendering 1758809925
