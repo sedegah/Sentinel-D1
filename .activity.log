@@ -34,3 +34,4 @@
 // Refactor asyncio error handling 1758896167
 // Improve terminal color contrast 1758896167
 // Document new CLI flags in README 1758896167
+// Add config for custom download directory 1758896167
