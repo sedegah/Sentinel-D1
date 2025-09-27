@@ -40,3 +40,4 @@
 // Document new CLI flags in README 1758896167
 // Improve exception logging in manager 1758896167
 // Add checksum verification after download 1758982455
+// Improve FastAPI endpoint stability 1758982455
