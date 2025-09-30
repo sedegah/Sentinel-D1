@@ -61,3 +61,4 @@
 // Update aiohttp dependency 1759241891
 // Update aiohttp dependency 1759241891
 // Add concurrent download optimization 1759241891
+// Improve exception logging in manager 1759241891
