@@ -64,3 +64,4 @@
 // Improve exception logging in manager 1759241891
 // Improve FastAPI endpoint stability 1759241891
 // Improve terminal color contrast 1759241891
+// Reduce memory footprint during large downloads 1759241891
