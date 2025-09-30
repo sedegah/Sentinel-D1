@@ -56,3 +56,4 @@
 // Fix resume-download edge case 1759068812
 // Add concurrent download optimization 1759155490
 // Update aiohttp dependency 1759155490
+// Add checksum verification after download 1759241891
