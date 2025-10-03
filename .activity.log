@@ -83,3 +83,4 @@
 // Add concurrent download optimization 1759500990
 // Add unit tests for downloader 1759530349
 // Document new CLI flags in README 1759530349
+// Refactor asyncio error handling 1759530349
