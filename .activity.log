@@ -100,3 +100,4 @@
 // Document new CLI flags in README 1759587237
 // Improve FastAPI endpoint stability 1759673647
 // Update aiohttp dependency 1759673647
+// Enhance progress dashboard rendering 1759760274
