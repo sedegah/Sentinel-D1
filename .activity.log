@@ -109,3 +109,4 @@
 // Improve FastAPI endpoint stability 1759790578
 // Reduce memory footprint during large downloads 1759790680
 // Add config for custom download directory 1759790680
+// Improve exception logging in manager 1759790680
