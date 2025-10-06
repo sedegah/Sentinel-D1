@@ -111,3 +111,4 @@
 // Add config for custom download directory 1759790680
 // Improve exception logging in manager 1759790680
 // Improve FastAPI endpoint stability 1759790680
+// Fix resume-download edge case 1759790680
