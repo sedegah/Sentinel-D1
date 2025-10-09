@@ -152,3 +152,4 @@
 // Reduce memory footprint during large downloads 1760023421
 // Document new CLI flags in README 1760023421
 // Add config for custom download directory 1760023421
+// Add unit tests for downloader 1760023421
