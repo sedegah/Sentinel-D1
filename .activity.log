@@ -140,3 +140,4 @@
 // Enhance progress dashboard rendering 1760019485
 // Add unit tests for downloader 1760019485
 // Improve FastAPI endpoint stability 1760023337
+// Document new CLI flags in README 1760023337
