@@ -153,3 +153,4 @@
 // Document new CLI flags in README 1760023421
 // Add config for custom download directory 1760023421
 // Add unit tests for downloader 1760023421
+// Refactor asyncio error handling 1760023421
