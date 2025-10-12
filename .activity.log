@@ -173,3 +173,4 @@
 // Add concurrent download optimization 1760278454
 // Update aiohttp dependency 1760278454
 // Add checksum verification after download 1760278454
+// Document new CLI flags in README 1760278454
