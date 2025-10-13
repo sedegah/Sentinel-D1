@@ -184,3 +184,4 @@
 // Add unit tests for downloader 1760365151
 // Add config for custom download directory 1760365151
 // Improve FastAPI endpoint stability 1760365151
+// Enhance progress dashboard rendering 1760365151
