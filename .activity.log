@@ -186,3 +186,4 @@
 // Improve FastAPI endpoint stability 1760365151
 // Enhance progress dashboard rendering 1760365151
 // Improve exception logging in manager 1760365151
+// Add config for custom download directory 1760365151
