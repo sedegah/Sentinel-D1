@@ -189,3 +189,4 @@
 // Add config for custom download directory 1760365151
 // Fix resume-download edge case 1760365151
 // Add unit tests for downloader 1760365151
+// Add checksum verification after download 1760451560
