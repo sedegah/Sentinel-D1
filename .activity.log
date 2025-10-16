@@ -201,3 +201,4 @@
 // Improve FastAPI endpoint stability 1760624361
 // Reduce memory footprint during large downloads 1760624361
 // Add config for custom download directory 1760624361
+// Improve terminal color contrast 1760624361
