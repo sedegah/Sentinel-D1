@@ -216,3 +216,4 @@
 // Add unit tests for downloader 1760796889
 // Improve terminal color contrast 1760796889
 // Update aiohttp dependency 1760796889
+// Add config for custom download directory 1760883278
