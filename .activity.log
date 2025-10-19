@@ -218,3 +218,4 @@
 // Update aiohttp dependency 1760796889
 // Add config for custom download directory 1760883278
 // Improve terminal color contrast 1760883278
+// Document new CLI flags in README 1760883278
