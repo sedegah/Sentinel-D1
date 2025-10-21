@@ -229,3 +229,4 @@
 // Enhance progress dashboard rendering 1760969862
 // Improve exception logging in manager 1760969862
 // Fix resume-download edge case 1761056256
+// Add unit tests for downloader 1761056256
