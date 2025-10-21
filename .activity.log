@@ -231,3 +231,4 @@
 // Fix resume-download edge case 1761056256
 // Add unit tests for downloader 1761056256
 // Document new CLI flags in README 1761056256
+// Improve FastAPI endpoint stability 1761056256
