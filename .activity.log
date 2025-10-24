@@ -247,3 +247,4 @@
 // Improve terminal color contrast 1761315534
 // Add concurrent download optimization 1761315534
 // Improve FastAPI endpoint stability 1761315534
+// Improve exception logging in manager 1761315534
