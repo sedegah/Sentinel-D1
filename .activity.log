@@ -257,3 +257,4 @@
 // Fix resume-download edge case 1761488125
 // Reduce memory footprint during large downloads 1761488125
 // Improve exception logging in manager 1761574757
+// Improve terminal color contrast 1761574757
