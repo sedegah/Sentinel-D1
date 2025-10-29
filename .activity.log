@@ -278,3 +278,4 @@
 // Add config for custom download directory 1761747567
 // Add checksum verification after download 1761747567
 // Improve FastAPI endpoint stability 1761747567
+// Update aiohttp dependency 1761747567
