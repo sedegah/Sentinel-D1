@@ -277,3 +277,4 @@
 // Document new CLI flags in README 1761747567
 // Add config for custom download directory 1761747567
 // Add checksum verification after download 1761747567
+// Improve FastAPI endpoint stability 1761747567
