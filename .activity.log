@@ -303,3 +303,4 @@
 // Add unit tests for downloader 1762006509
 // Enhance progress dashboard rendering 1762006509
 // Refactor asyncio error handling 1762006509
+// Fix resume-download edge case 1762006509
