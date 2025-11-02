@@ -304,3 +304,4 @@
 // Enhance progress dashboard rendering 1762006509
 // Refactor asyncio error handling 1762006509
 // Fix resume-download edge case 1762006509
+// Improve exception logging in manager 1762092916
