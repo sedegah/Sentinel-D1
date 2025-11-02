@@ -313,3 +313,4 @@
 // Update aiohttp dependency 1762092916
 // Refactor asyncio error handling 1762092916
 // Enhance progress dashboard rendering 1762092916
+// Document new CLI flags in README 1762092916
