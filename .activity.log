@@ -324,3 +324,4 @@
 // Reduce memory footprint during large downloads 1762179531
 // Improve terminal color contrast 1762265963
 // Add config for custom download directory 1762265963
+// Fix resume-download edge case 1762265963
