@@ -328,3 +328,4 @@
 // Improve exception logging in manager 1762265963
 // Add concurrent download optimization 1762352335
 // Reduce memory footprint during large downloads 1762352335
+// Improve FastAPI endpoint stability 1762352335
