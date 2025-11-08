@@ -342,3 +342,4 @@
 // Reduce memory footprint during large downloads 1762611313
 // Reduce memory footprint during large downloads 1762611313
 // Add concurrent download optimization 1762611313
+// Document new CLI flags in README 1762611313
