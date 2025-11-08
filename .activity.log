@@ -344,3 +344,4 @@
 // Add concurrent download optimization 1762611313
 // Document new CLI flags in README 1762611313
 // Improve FastAPI endpoint stability 1762611313
+// Add config for custom download directory 1762611313
