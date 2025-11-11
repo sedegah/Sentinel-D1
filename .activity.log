@@ -361,3 +361,4 @@
 // Improve FastAPI endpoint stability 1762870763
 // Add checksum verification after download 1762870763
 // Enhance progress dashboard rendering 1762870763
+// Improve exception logging in manager 1762870763
