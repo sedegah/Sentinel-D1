@@ -375,3 +375,4 @@
 // Update aiohttp dependency 1762957185
 // Add unit tests for downloader 1762957185
 // Fix resume-download edge case 1762957185
+// Add checksum verification after download 1762957185
