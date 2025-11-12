@@ -368,3 +368,4 @@
 // Add concurrent download optimization 1762870763
 // Improve FastAPI endpoint stability 1762870763
 // Fix resume-download edge case 1762870763
+// Enhance progress dashboard rendering 1762957185
