@@ -383,3 +383,4 @@
 // Add checksum verification after download 1763043519
 // Document new CLI flags in README 1763043519
 // Improve terminal color contrast 1763043519
+// Reduce memory footprint during large downloads 1763043519
