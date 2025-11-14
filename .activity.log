@@ -389,3 +389,4 @@
 // Enhance progress dashboard rendering 1763043519
 // Improve FastAPI endpoint stability 1763043519
 // Improve FastAPI endpoint stability 1763129932
+// Fix resume-download edge case 1763129932
