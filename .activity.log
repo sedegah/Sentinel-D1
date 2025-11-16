@@ -399,3 +399,4 @@
 // Add checksum verification after download 1763216128
 // Refactor asyncio error handling 1763216128
 // Reduce memory footprint during large downloads 1763216128
+// Add config for custom download directory 1763302534
