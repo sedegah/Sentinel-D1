@@ -404,3 +404,4 @@
 // Add unit tests for downloader 1763302534
 // Improve FastAPI endpoint stability 1763302534
 // Refactor asyncio error handling 1763302534
+// Reduce memory footprint during large downloads 1763302534
