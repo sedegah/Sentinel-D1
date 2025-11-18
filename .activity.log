@@ -421,3 +421,4 @@
 // Document new CLI flags in README 1763475536
 // Add concurrent download optimization 1763475536
 // Add checksum verification after download 1763475536
+// Improve terminal color contrast 1763475536
