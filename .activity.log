@@ -434,3 +434,4 @@
 // Fix resume-download edge case 1763648367
 // Add unit tests for downloader 1763648367
 // Improve FastAPI endpoint stability 1763648367
+// Refactor asyncio error handling 1763648367
