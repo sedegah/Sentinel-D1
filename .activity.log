@@ -437,3 +437,4 @@
 // Refactor asyncio error handling 1763648367
 // Improve terminal color contrast 1763734718
 // Reduce memory footprint during large downloads 1763734718
+// Fix resume-download edge case 1763820951
