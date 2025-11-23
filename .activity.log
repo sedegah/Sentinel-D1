@@ -442,3 +442,4 @@
 // Improve terminal color contrast 1763907356
 // Add concurrent download optimization 1763907356
 // Refactor asyncio error handling 1763907356
+// Improve exception logging in manager 1763907356
