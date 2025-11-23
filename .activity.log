@@ -443,3 +443,4 @@
 // Add concurrent download optimization 1763907356
 // Refactor asyncio error handling 1763907356
 // Improve exception logging in manager 1763907356
+// Document new CLI flags in README 1763907356
