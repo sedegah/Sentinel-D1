@@ -459,3 +459,4 @@
 // Fix resume-download edge case 1764080381
 // Add checksum verification after download 1764080381
 // Update aiohttp dependency 1764080381
+// Improve exception logging in manager 1764080381
