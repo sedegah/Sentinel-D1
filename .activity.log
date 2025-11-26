@@ -462,3 +462,4 @@
 // Improve exception logging in manager 1764080381
 // Enhance progress dashboard rendering 1764080381
 // Add checksum verification after download 1764080381
+// Document new CLI flags in README 1764166815
