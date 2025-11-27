@@ -481,3 +481,4 @@
 // Document new CLI flags in README 1764253150
 // Improve FastAPI endpoint stability 1764253150
 // Improve FastAPI endpoint stability 1764253150
+// Add concurrent download optimization 1764253150
