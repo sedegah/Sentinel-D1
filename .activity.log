@@ -474,3 +474,4 @@
 // Improve FastAPI endpoint stability 1764166815
 // Update aiohttp dependency 1764253150
 // Add checksum verification after download 1764253150
+// Document new CLI flags in README 1764253150
