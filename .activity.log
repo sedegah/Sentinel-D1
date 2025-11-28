@@ -488,3 +488,4 @@
 // Enhance progress dashboard rendering 1764339539
 // Document new CLI flags in README 1764339539
 // Refactor asyncio error handling 1764339539
+// Reduce memory footprint during large downloads 1764339539
