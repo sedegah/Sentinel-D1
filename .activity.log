@@ -514,3 +514,4 @@
 // Document new CLI flags in README 1764512195
 // Improve terminal color contrast 1764512195
 // Improve FastAPI endpoint stability 1764512195
+// Refactor asyncio error handling 1764512195
