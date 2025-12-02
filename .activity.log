@@ -526,3 +526,4 @@
 // Document new CLI flags in README 1764685296
 // Improve terminal color contrast 1764685296
 // Refactor asyncio error handling 1764685296
+// Add checksum verification after download 1764685296
