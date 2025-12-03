@@ -541,3 +541,4 @@
 // Add unit tests for downloader 1764771641
 // Add unit tests for downloader 1764771641
 // Improve FastAPI endpoint stability 1764771641
+// Improve exception logging in manager 1764771641
