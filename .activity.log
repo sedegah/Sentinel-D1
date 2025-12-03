@@ -535,3 +535,4 @@
 // Add unit tests for downloader 1764771641
 // Update aiohttp dependency 1764771641
 // Add checksum verification after download 1764771641
+// Improve exception logging in manager 1764771641
