@@ -549,3 +549,4 @@
 // Improve FastAPI endpoint stability 1764944417
 // Improve terminal color contrast 1764944417
 // Add unit tests for downloader 1764944417
+// Document new CLI flags in README 1765030575
