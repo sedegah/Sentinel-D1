@@ -561,3 +561,4 @@
 // Add checksum verification after download 1765030575
 // Fix resume-download edge case 1765030575
 // Add unit tests for downloader 1765030575
+// Reduce memory footprint during large downloads 1765030575
