@@ -583,3 +583,4 @@
 // Add checksum verification after download 1765203709
 // Document new CLI flags in README 1765203709
 // Add concurrent download optimization 1765203709
+// Improve FastAPI endpoint stability 1765203709
