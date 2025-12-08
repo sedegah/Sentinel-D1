@@ -578,3 +578,4 @@
 // Add config for custom download directory 1765203709
 // Update aiohttp dependency 1765203709
 // Update aiohttp dependency 1765203709
+// Improve exception logging in manager 1765203709
