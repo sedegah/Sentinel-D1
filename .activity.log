@@ -595,3 +595,4 @@
 // Improve exception logging in manager 1765376518
 // Update aiohttp dependency 1765376518
 // Document new CLI flags in README 1765376518
+// Add checksum verification after download 1765376518
