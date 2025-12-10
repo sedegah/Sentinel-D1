@@ -594,3 +594,4 @@
 // Reduce memory footprint during large downloads 1765376518
 // Improve exception logging in manager 1765376518
 // Update aiohttp dependency 1765376518
+// Document new CLI flags in README 1765376518
