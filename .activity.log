@@ -602,3 +602,4 @@
 // Improve exception logging in manager 1765462900
 // Add unit tests for downloader 1765462900
 // Enhance progress dashboard rendering 1765462900
+// Improve FastAPI endpoint stability 1765462900
