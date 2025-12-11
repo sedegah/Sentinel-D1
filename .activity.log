@@ -599,3 +599,4 @@
 // Add checksum verification after download 1765376518
 // Enhance progress dashboard rendering 1765376518
 // Fix resume-download edge case 1765462900
+// Improve exception logging in manager 1765462900
