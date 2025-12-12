@@ -620,3 +620,4 @@
 // Add unit tests for downloader 1765549138
 // Reduce memory footprint during large downloads 1765549138
 // Document new CLI flags in README 1765549138
+// Improve FastAPI endpoint stability 1765549138
