@@ -647,3 +647,4 @@
 // Document new CLI flags in README 1765895013
 // Enhance progress dashboard rendering 1765895013
 // Add concurrent download optimization 1765895013
+// Reduce memory footprint during large downloads 1765895013
